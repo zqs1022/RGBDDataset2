@@ -1,0 +1,3 @@
+Files in Graphs_2D.zip and Graphs_3D.zip are ARGs directly generated from RGB and RGBD images.
+
+Files in Template_2D and Template_3D are initial graph templates. The first set contains carefully segmented templates, and templates in the second set are segmented without subjective adjustment.
